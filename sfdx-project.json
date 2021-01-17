@@ -13,6 +13,7 @@
     "sourceApiVersion": "50.0",
     "packageAliases": {
         "grass-roots-survey-salesforce-package": "0Ho5G000000PB4iSAG",
-        "grass-roots-survey-salesforce-package@0.1.0-1": "04t5G000004J2jNQAS"
+        "grass-roots-survey-salesforce-package@0.1.0-1": "04t5G000004J2jNQAS",
+        "grass-roots-survey-salesforce-package@0.1.0-2": "04t5G000004J2liQAC"
     }
 }
