@@ -3,7 +3,7 @@
         {
             "path": "force-app",
             "default": true,
-            "package": "grass-roots-survey-salesforce-package",
+            "package": "grass-roots-survey",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,8 +12,9 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "50.0",
     "packageAliases": {
-        "grass-roots-survey-salesforce-package": "0Ho5G000000PB4iSAG",
-        "grass-roots-survey-salesforce-package@0.1.0-1": "04t5G000004J2jNQAS",
-        "grass-roots-survey-salesforce-package@0.1.0-2": "04t5G000004J2liQAC"
+        "grass-roots-survey": "0Ho5G000000PB4iSAG",
+        "grass-roots-survey@0.1.0-1": "04t5G000004J2jNQAS",
+        "grass-roots-survey@0.1.0-2": "04t5G000004J2liQAC",
+        "grass-roots-survey@0.1.0-3": "04t5G000004J2lxQAC"
     }
 }
