@@ -3,7 +3,7 @@
     <fullName>Client__c</fullName>
     <deleteConstraint>Restrict</deleteConstraint>
     <externalId>false</externalId>
-    <label>User</label>
+    <label>Client</label>
     <referenceTo>Contact</referenceTo>
     <relationshipLabel>Client Relationships</relationshipLabel>
     <relationshipName>ClientRelations</relationshipName>
