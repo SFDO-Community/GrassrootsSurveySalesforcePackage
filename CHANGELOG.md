@@ -1,10 +1,13 @@
-# 0.0.3 - Jan 17th, 201
+# 0.1.0-4 - Jan 19th, 2021
+* Fix field label
+
+# 0.1.0-3 - Jan 17th, 2021
 * Add tab to application
 * Add contact lookup field to Survey
 
-# 0.0.2 - Jan 17th, 201
+# 0.1.0-2 - Jan 17th, 2021
 * Add application
 * Add record types to Contact
 
-# 0.0.1 - Jan 11th, 2021
+# 0.1.0 - Jan 11th, 2021
 * First release
