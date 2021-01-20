@@ -11,8 +11,8 @@
     <label>Grass Roots Survey</label>
     <navType>Standard</navType>
     <tabs>standard-Contact</tabs>
-    <tabs>GRSM_UserClientRelation__c</tabs>
-    <tabs>GRSM_Survey__c</tabs>
+    <tabs>GRMS_UserClientRelation__c</tabs>
+    <tabs>GRMS_Survey__c</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>GRSM_Survey_App_UtilityBar</utilityBar>
+    <utilityBar>GRMS_Survey_App_UtilityBar</utilityBar>
 </CustomApplication>

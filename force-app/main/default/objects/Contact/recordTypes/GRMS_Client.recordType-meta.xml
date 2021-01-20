@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>GRSM_Client</fullName>
+    <fullName>GRMS_Client</fullName>
     <active>true</active>
     <description>(Optional) Client of grass roots survey app</description>
     <label>Survey Client</label>

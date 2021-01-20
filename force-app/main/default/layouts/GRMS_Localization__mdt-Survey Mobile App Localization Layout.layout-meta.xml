@@ -12,11 +12,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Locale__c</field>
+                <field>GRMS_Locale__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>OriginalName__c</field>
+                <field>GRMS_OriginalName__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -26,11 +26,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Type__c</field>
+                <field>GRMS_Type__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>TranslatedLabel__c</field>
+                <field>GRMS_TranslatedLabel__c</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
