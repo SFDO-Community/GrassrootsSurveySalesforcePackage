@@ -1,3 +1,7 @@
+# 0.5.0 - Jan 20th, 2021
+* Update prefix
+* Add survey date field
+
 # 0.1.0-4 - Jan 19th, 2021
 * Fix field label
 
