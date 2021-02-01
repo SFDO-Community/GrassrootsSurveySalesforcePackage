@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>GRMS_Survey_App</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Contact.GRMS_LoginEmail__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Grass Roots Survey App</label>
+    <recordTypeVisibilities>
+        <recordType>Contact.GRMS_Client</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <recordType>Contact.GRMS_User</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+</PermissionSet>
