@@ -1,3 +1,7 @@
+# 0.6.0 - Feb 1st, 2021
+* Add permission set
+* Add example fields package
+
 # 0.5.0 - Jan 20th, 2021
 * Update prefix
 * Add survey date field
