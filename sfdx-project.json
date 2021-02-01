@@ -6,6 +6,18 @@
             "package": "grass-roots-survey",
             "versionName": "ver 0.5",
             "versionNumber": "0.5.0.NEXT"
+        },
+        {
+            "path": "force-app-example",
+            "package": "grass-roots-survey-example",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false,
+            "dependencies": [
+                {
+                    "subscriberPackageVersionId": "04t5G000004J2nZQAS"
+                }
+            ]
         }
     ],
     "namespace": "",
@@ -17,6 +29,8 @@
         "grass-roots-survey@0.1.0-2": "04t5G000004J2liQAC",
         "grass-roots-survey@0.1.0-3": "04t5G000004J2lxQAC",
         "grass-roots-survey@0.1.0-4": "04t5G000004J2mvQAC",
-        "grass-roots-survey@0.5.0-2": "04t5G000004J2nZQAS"
+        "grass-roots-survey@0.5.0-2": "04t5G000004J2nZQAS",
+        "grass-roots-survey-example": "0Ho5G000000PB5RSAW",
+        "grass-roots-survey-example@0.1.0-1": "04t5G000004J2qxQAC"
     }
 }
