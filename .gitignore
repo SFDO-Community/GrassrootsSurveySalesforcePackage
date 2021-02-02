@@ -5,6 +5,16 @@
 # Salesforce cache
 .sfdx/
 .localdevserver/
+.cci
+/src.orig
+/src
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+.idea
+.project
+.settings
 
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
@@ -36,3 +46,10 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
+
+# Python
+*.pyc
+__pycache__
+
+# Robot Framework results
+robot/grass-roots-mobile-salesforce-package/results/
