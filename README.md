@@ -19,8 +19,17 @@ https://powerofus.force.com/s/group/0F91E000000LnyySAC/sprint-project-grassroots
 
 ### Current Project Team
 * Team Leader(s): Trish Perkins
-* GitHub Scribe(s): TBD
-* List of all Contributors: TBD
+* GitHub Scribe(s): James Daniel
+* List of all Contributors: 
+    Marc Beaulieu <br/>
+    Lynda En <br/>
+    Shun Kosaka <br/>
+    Rich Nevin <br/>
+    Bhim Raj Mainali <br/>
+    Nicholas Rustigan <br/>
+    Fesobi Saliu <br/>
+    Andy Engin Utkan <br/>
+    Dar Veverka <br/>
 
 ### Past Project Team
 Full Name       | Github Username                                      | Sprint(s)               
