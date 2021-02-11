@@ -39,12 +39,19 @@ Full Name       | Github Username                                      | Sprint(
 ### Project Vision (Please make this your first task as a team)
 What will your project try to accomplish. How will you contribute your work to the greater ecosystem?
 
+Refactor the current survey mobile app to function more generic and allow for users to quickly and declaratively configure surveys for their needs. Simple and generic is key. The app will not require development on the React or Auth0 platform.
+
 ### Project Resources
 Research information can be found in the repository Wiki URL TBD:
 * 
 
 ### Project Team Accomplishments
 What were you able to accomplish during the February 2021 Sprint?
+* Elaborated on mobile app architecture
+* Defined new Personas
+* Defined new User Stories
+* Identified mobile app future roadmap items
+* Improved installation documentation
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 What work still needs to be done before your work can be contributed back into the greater ecosystem?
