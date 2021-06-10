@@ -8,7 +8,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <label>Grass Roots Survey</label>
+    <label>Grassroots Survey</label>
     <navType>Standard</navType>
     <tabs>standard-Contact</tabs>
     <tabs>GRMS_UserClientRelation__c</tabs>

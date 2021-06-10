@@ -10,7 +10,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
-    <label>Grass Roots Survey App</label>
+    <label>Grassroots Survey App</label>
     <recordTypeVisibilities>
         <recordType>Contact.GRMS_Client</recordType>
         <visible>true</visible>
