@@ -1,3 +1,6 @@
+# 0.7.0 - June 10th, 2021
+* Rename
+
 # 0.6.0 - Feb 1st, 2021
 * Add permission set
 * Add example fields package
