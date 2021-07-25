@@ -1,3 +1,6 @@
+
+# 0.8.0 - July 25th, 2021
+* Add validation rules for contact lookup fields on relationship object.
 # 0.7.0 - June 10th, 2021
 * Rename
 

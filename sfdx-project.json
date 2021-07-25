@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "grass-roots-survey",
-            "versionName": "ver 0.7",
-            "versionNumber": "0.7.0.NEXT"
+            "versionName": "ver 0.8",
+            "versionNumber": "0.8.0.NEXT"
         },
         {
             "path": "force-app-example",
@@ -22,7 +22,7 @@
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "50.0",
+    "sourceApiVersion": "52.0",
     "packageAliases": {
         "grass-roots-survey": "0Ho5G000000PB4iSAG",
         "grass-roots-survey@0.1.0-1": "04t5G000004J2jNQAS",
@@ -33,6 +33,7 @@
         "grass-roots-survey-example": "0Ho5G000000PB5RSAW",
         "grass-roots-survey-example@0.1.0-1": "04t5G000004J2qxQAC",
         "grass-roots-survey@0.6.0-1": "04t5G000004J2r2QAC",
-        "grass-roots-survey@0.7.0-1": "04t5G000003zeSqQAI"
+        "grass-roots-survey@0.7.0-1": "04t5G000003zeSqQAI",
+        "grass-roots-survey@0.8.0-1": "04t5G000003zeZ8QAI"
     }
 }
