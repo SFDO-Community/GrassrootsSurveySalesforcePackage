@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>GRMS_Type__c</fullName>
+    <deprecated>false</deprecated>
     <description>Represents the relationship type between survey user and client. You can customize the picklist values</description>
     <externalId>false</externalId>
     <label>Type</label>
@@ -12,9 +13,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Relation 1</fullName>
+                <fullName>Chef</fullName>
                 <default>false</default>
-                <label>Relation 1</label>
+                <label>Chef</label>
             </value>
             <value>
                 <fullName>Relation 2</fullName>
