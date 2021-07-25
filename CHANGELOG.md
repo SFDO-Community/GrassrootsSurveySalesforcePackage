@@ -1,6 +1,11 @@
 
+# 0.9.0 - July 26th, 2021
+* Update record type description
+* Add application image
+
 # 0.8.0 - July 25th, 2021
-* Add validation rules for contact lookup fields on relationship object.
+* Add validation rules for contact lookup fields on relationship object
+
 # 0.7.0 - June 10th, 2021
 * Rename
 
