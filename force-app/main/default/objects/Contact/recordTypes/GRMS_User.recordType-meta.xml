@@ -2,6 +2,6 @@
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>GRMS_User</fullName>
     <active>true</active>
-    <description>Users of grassroots survey mobile app</description>
+    <description>User of grassroots survey mobile app. Contact who collects survey data.</description>
     <label>Survey User</label>
 </RecordType>

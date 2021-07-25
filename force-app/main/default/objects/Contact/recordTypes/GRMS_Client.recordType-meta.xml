@@ -2,6 +2,6 @@
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>GRMS_Client</fullName>
     <active>true</active>
-    <description>(Optional) Client of grassroots survey app</description>
+    <description>(Optional) Client of grassroots survey mobile app. Contact who engages with the mobile app user.</description>
     <label>Survey Client</label>
 </RecordType>
