@@ -3,7 +3,7 @@
     <fullName>GRMS_User_Record_Type</fullName>
     <active>true</active>
     <description>Restrict contact record type for user field.</description>
-    <errorConditionFormula>GRMS_Client__r.RecordType.DeveloperName &lt;&gt; &quot;GRMS_User&quot;</errorConditionFormula>
+    <errorConditionFormula>GRMS_User__r.RecordType.DeveloperName &lt;&gt; &quot;GRMS_User&quot;</errorConditionFormula>
     <errorDisplayField>GRMS_User__c</errorDisplayField>
     <errorMessage>You must specify &quot;Survey User&quot; record type contact for the client field.</errorMessage>
 </ValidationRule>
