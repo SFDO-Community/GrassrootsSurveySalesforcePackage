@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "grass-roots-survey",
-            "versionName": "ver 0.9",
-            "versionNumber": "0.9.0.NEXT"
+            "versionName": "ver 0.10",
+            "versionNumber": "0.10.0.NEXT"
         },
         {
             "path": "force-app-example",
@@ -25,16 +25,9 @@
     "sourceApiVersion": "52.0",
     "packageAliases": {
         "grass-roots-survey": "0Ho5G000000PB4iSAG",
-        "grass-roots-survey@0.1.0-1": "04t5G000004J2jNQAS",
-        "grass-roots-survey@0.1.0-2": "04t5G000004J2liQAC",
-        "grass-roots-survey@0.1.0-3": "04t5G000004J2lxQAC",
-        "grass-roots-survey@0.1.0-4": "04t5G000004J2mvQAC",
-        "grass-roots-survey@0.5.0-2": "04t5G000004J2nZQAS",
         "grass-roots-survey-example": "0Ho5G000000PB5RSAW",
         "grass-roots-survey-example@0.1.0-1": "04t5G000004J2qxQAC",
-        "grass-roots-survey@0.6.0-1": "04t5G000004J2r2QAC",
-        "grass-roots-survey@0.7.0-1": "04t5G000003zeSqQAI",
-        "grass-roots-survey@0.8.0-1": "04t5G000003zeZ8QAI",
-        "grass-roots-survey@0.9.0-1": "04t5G000003zeZDQAY"
+        "grass-roots-survey@0.9.1-1": "04t5G000003zeZXQAY",
+        "grass-roots-survey@0.10.0-1": "04t5G000003zeZcQAI"
     }
 }

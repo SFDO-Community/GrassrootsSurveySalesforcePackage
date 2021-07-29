@@ -1,3 +1,6 @@
+# 0.10.0 - August 2nd, 2021
+* Add page layout for survey user and survey client
+* Update and rename permission set
 
 # 0.9.0 - July 26th, 2021
 * Update record type description
