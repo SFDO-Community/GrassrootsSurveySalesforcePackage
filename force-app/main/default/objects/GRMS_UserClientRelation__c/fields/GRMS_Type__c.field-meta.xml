@@ -13,9 +13,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Chef</fullName>
+                <fullName>Relation 1</fullName>
                 <default>false</default>
-                <label>Chef</label>
+                <label>Relation 1</label>
             </value>
             <value>
                 <fullName>Relation 2</fullName>
