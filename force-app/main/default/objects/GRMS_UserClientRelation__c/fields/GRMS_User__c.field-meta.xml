@@ -6,7 +6,7 @@
     <externalId>false</externalId>
     <label>User</label>
     <referenceTo>Contact</referenceTo>
-    <relationshipLabel>User Relationships</relationshipLabel>
+    <relationshipLabel>Related Survey Clients</relationshipLabel>
     <relationshipName>UserRelations</relationshipName>
     <required>true</required>
     <trackTrending>false</trackTrending>
