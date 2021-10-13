@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Weather__c</fullName>
+    <fullName>Resides__c</fullName>
+    <description>GRMS homecare sample survey</description>
     <externalId>false</externalId>
-    <label>Weather</label>
+    <inlineHelpText>current living situation</inlineHelpText>
+    <label>Resides</label>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
@@ -11,19 +13,14 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Sunny</fullName>
+                <fullName>Alone</fullName>
                 <default>false</default>
-                <label>Sunny</label>
+                <label>Alone</label>
             </value>
             <value>
-                <fullName>Cloudy</fullName>
+                <fullName>With Others</fullName>
                 <default>false</default>
-                <label>Cloudy</label>
-            </value>
-            <value>
-                <fullName>Rainy</fullName>
-                <default>false</default>
-                <label>Rainy</label>
+                <label>With Others</label>
             </value>
         </valueSetDefinition>
     </valueSet>
