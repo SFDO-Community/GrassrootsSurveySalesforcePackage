@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Materials_Needed_to_Make_Repairs__c</fullName>
+    <description>GRMS post-disaster worker sample survey</description>
+    <externalId>false</externalId>
+    <inlineHelpText>List tools and materials needed to complete repairs</inlineHelpText>
+    <label>Materials Needed to Make Repairs</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>
