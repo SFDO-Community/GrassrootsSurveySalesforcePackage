@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Endangered__c</fullName>
+    <fullName>Nutrition_Advice_Needed__c</fullName>
     <defaultValue>false</defaultValue>
+    <description>Do you need Nutrition Advice? (GRMS homecare sample survey)</description>
     <externalId>false</externalId>
-    <label>Endangered</label>
+    <inlineHelpText>Do you need nutrition advice?</inlineHelpText>
+    <label>Nutrition Advice Needed?</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>
 </CustomField>

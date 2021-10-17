@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Food_Delivery_Assistance_Needed__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Do you need food delivery assistance? (GRMS homecare sample survey)</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Do you need food delivery assistance?</inlineHelpText>
+    <label>Food Delivery Assistance Needed?</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
