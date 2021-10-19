@@ -27,8 +27,6 @@
                 <behavior>Edit</behavior>
                 <field>Contact_Email__c</field>
             </layoutItems>
-        </layoutColumns>
-        <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Resides__c</field>
@@ -46,7 +44,7 @@
                 <field>Emergency_Contact_Phone__c</field>
             </layoutItems>
         </layoutColumns>
-        <style>TwoColumnsLeftToRight</style>
+        <style>OneColumn</style>
     </layoutSections>
     <layoutSections>
         <customLabel>true</customLabel>
@@ -79,8 +77,7 @@
                 <field>Nutrition_Support_Needs__c</field>
             </layoutItems>
         </layoutColumns>
-        <layoutColumns/>
-        <style>TwoColumnsLeftToRight</style>
+        <style>OneColumn</style>
     </layoutSections>
     <layoutSections>
         <customLabel>true</customLabel>
@@ -109,8 +106,7 @@
                 <field>Other_Comments__c</field>
             </layoutItems>
         </layoutColumns>
-        <layoutColumns/>
-        <style>TwoColumnsLeftToRight</style>
+        <style>OneColumn</style>
     </layoutSections>
     <layoutSections>
         <customLabel>false</customLabel>
@@ -170,7 +166,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00h1g000003EFss</masterLabel>
+        <masterLabel>00h54000005PULY</masterLabel>
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>
