@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Access_to_Clean_Water__c</fullName>
+    <description>GRMS post-disaster worker sample survey</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Describe the source of clean water for the HH</inlineHelpText>
+    <label>Access to Clean Water</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>

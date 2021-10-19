@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Homecare</fullName>
+    <fullName>Disaster_Relief</fullName>
     <active>true</active>
-    <description>GRMS record type for a sample survey</description>
-    <label>Homecare</label>
+    <description>GRMS record type For a sample survey</description>
+    <label>Disaster Relief</label>
     <picklistValues>
         <picklist>Any_HH_Member_Missing__c</picklist>
         <values>
