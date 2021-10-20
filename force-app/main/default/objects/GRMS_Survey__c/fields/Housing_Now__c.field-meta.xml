@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Housing_Now__c</fullName>
+    <description>GRMS post-disaster worker sample survey</description>
+    <externalId>false</externalId>
+    <inlineHelpText>List immediate needs for housing</inlineHelpText>
+    <label>Housing Now?</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>

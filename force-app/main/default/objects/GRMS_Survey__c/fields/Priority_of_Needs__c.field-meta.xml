@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Priority_of_Needs__c</fullName>
+    <description>GRMS post-disaster worker sample survey</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Needs in order of most pressing first</inlineHelpText>
+    <label>Priority of Needs</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>
