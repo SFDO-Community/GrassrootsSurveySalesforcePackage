@@ -4,6 +4,10 @@
         <application>GRMS_Survey_App</application>
         <visible>true</visible>
     </applicationVisibilities>
+    <customMetadataTypeAccesses>
+        <enabled>true</enabled>
+        <name>GRMS_Localization__mdt</name>
+    </customMetadataTypeAccesses>
     <fieldPermissions>
         <editable>true</editable>
         <field>Contact.GRMS_LoginEmail__c</field>
@@ -241,12 +245,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>GRMS_Survey__c.Respondant_First_Name__c</field>
+        <field>GRMS_Survey__c.Respondent_First_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>GRMS_Survey__c.Respondant_Last_Name__c</field>
+        <field>GRMS_Survey__c.Respondent_Last_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -312,4 +316,8 @@
         <tab>GRMS_UserClientRelation__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ApiEnabled</name>
+    </userPermissions>
 </PermissionSet>
