@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Respondant_First_Name__c</fullName>
+    <fullName>Respondent_Last_Name__c</fullName>
+    <description>Respondent First Name for GRMS sample survey</description>
     <externalId>false</externalId>
-    <label>Respondant First Name</label>
+    <label>Respondent Last Name</label>
     <length>50</length>
     <required>false</required>
     <trackTrending>false</trackTrending>
