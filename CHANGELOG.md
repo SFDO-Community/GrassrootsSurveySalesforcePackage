@@ -1,3 +1,6 @@
+# 0.11.0 - April 6th, 2021
+* Remove record types from contact and use picklist to define survey user/client
+
 # 0.10.0 - August 2nd, 2021
 * Add page layout for survey user and survey client
 * Update and rename permission set

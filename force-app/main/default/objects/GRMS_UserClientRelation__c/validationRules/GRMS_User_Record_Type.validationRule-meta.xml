@@ -5,5 +5,5 @@
     <description>Restrict contact record type for user field.</description>
     <errorConditionFormula>TEXT(GRMS_User__r.GRMS_ContactType__c) &lt;&gt; &quot;Survey User&quot;</errorConditionFormula>
     <errorDisplayField>GRMS_User__c</errorDisplayField>
-    <errorMessage>You must specify &quot;Survey User&quot; type contact for the client field.</errorMessage>
+    <errorMessage>You must specify &quot;Survey User&quot; type contact for the user field.</errorMessage>
 </ValidationRule>
