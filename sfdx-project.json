@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "grass-roots-survey",
-            "versionName": "ver 0.10",
-            "versionNumber": "0.10.0.NEXT"
+            "versionName": "ver 0.11",
+            "versionNumber": "0.11.0.NEXT"
         }
     ],
     "namespace": "",
@@ -16,6 +16,7 @@
         "grass-roots-survey-example": "0Ho5G000000PB5RSAW",
         "grass-roots-survey-example@0.1.0-1": "04t5G000004J2qxQAC",
         "grass-roots-survey@0.9.1-1": "04t5G000003zeZXQAY",
-        "grass-roots-survey@0.10.0-2": "04t5G000003zeaGQAQ"
+        "grass-roots-survey@0.10.0-2": "04t5G000003zeaGQAQ",
+        "grass-roots-survey@0.11.0-3": "04t5G000003RTLtQAO"
     }
 }
