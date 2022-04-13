@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Overall_Health__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Rate your overall health (GRMS homecare sample survey)</description>
+    <externalId>false</externalId>
+    <inlineHelpText>General assessment of physical health</inlineHelpText>
+    <label>Overall Health</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>Rating</valueSetName>
+    </valueSet>
+</CustomField>

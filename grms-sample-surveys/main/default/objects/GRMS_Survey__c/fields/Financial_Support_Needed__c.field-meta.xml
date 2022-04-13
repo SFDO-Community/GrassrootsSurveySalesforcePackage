@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Financial_Support_Needed__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Do you need Financial Support? (GRMS homecare sample survey)</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Do you need financial support?</inlineHelpText>
+    <label>Financial Support Needed?</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
