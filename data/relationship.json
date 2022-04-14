@@ -1,0 +1,28 @@
+{
+  "records": [
+      {
+          "attributes": {
+              "type": "GRMS_UserClientRelation__c",
+              "referenceId": "RelationRef1"
+          },
+          "GRMS_User__c": "@ContactRef1",
+          "GRMS_Client__c": "@ContactRef2"
+      },
+      {
+          "attributes": {
+              "type": "GRMS_UserClientRelation__c",
+              "referenceId": "RelationRef2"
+          },
+          "GRMS_User__c": "@ContactRef1",
+          "GRMS_Client__c": "@ContactRef2"
+      },
+      {
+          "attributes": {
+              "type": "GRMS_UserClientRelation__c",
+              "referenceId": "RelationRef3"
+          },
+          "GRMS_User__c": "@ContactRef1",
+          "GRMS_Client__c": "@ContactRef2"
+      }
+  ]
+}
