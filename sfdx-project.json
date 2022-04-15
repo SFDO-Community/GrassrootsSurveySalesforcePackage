@@ -11,7 +11,7 @@
             "path": "test"
         },
         {
-            "path": "sample-survey",
+            "path": "grms-sample-surveys",
             "package": "grms-sample-surveys",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
