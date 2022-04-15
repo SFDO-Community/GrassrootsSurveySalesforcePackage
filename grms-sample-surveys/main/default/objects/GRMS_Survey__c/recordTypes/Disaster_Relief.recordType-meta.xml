@@ -96,56 +96,6 @@
         </values>
     </picklistValues>
     <picklistValues>
-        <picklist>Flower__c</picklist>
-        <values>
-            <fullName>Androsace</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Campanula</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Globularia</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Ranunculus</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Saxifraga</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Thymus</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>Food_Type__c</picklist>
-        <values>
-            <fullName>French</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Indian</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Italian</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Japanese</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Others</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>Form_of_Insurance__c</picklist>
         <values>
             <fullName>Both</fullName>
@@ -248,21 +198,6 @@
         </values>
         <values>
             <fullName>Visitor</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>Weather__c</picklist>
-        <values>
-            <fullName>Cloudy</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Rainy</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Sunny</fullName>
             <default>false</default>
         </values>
     </picklistValues>
