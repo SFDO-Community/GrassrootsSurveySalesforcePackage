@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Role_in_Family__c</fullName>
+    <deprecated>false</deprecated>
+    <description>GRMS post-diaster worker sample survey</description>
+    <externalId>false</externalId>
+    <label>Role in Family</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Primary Contact</fullName>
+                <default>false</default>
+                <label>Primary Contact</label>
+            </value>
+            <value>
+                <fullName>Head of Household</fullName>
+                <default>false</default>
+                <label>Head of Household</label>
+            </value>
+            <value>
+                <fullName>Relative</fullName>
+                <default>false</default>
+                <label>Relative</label>
+            </value>
+            <value>
+                <fullName>Visitor</fullName>
+                <default>false</default>
+                <label>Visitor</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

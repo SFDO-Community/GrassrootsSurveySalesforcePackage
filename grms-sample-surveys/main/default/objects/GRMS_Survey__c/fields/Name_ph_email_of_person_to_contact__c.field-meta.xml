@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Name_ph_email_of_person_to_contact__c</fullName>
+    <deprecated>false</deprecated>
+    <description>GRMS post-disaster worker sample survey</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Add at least one way to contact the person</inlineHelpText>
+    <label>Name/ph#/email of person to contact</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>
