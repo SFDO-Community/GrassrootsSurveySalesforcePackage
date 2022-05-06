@@ -1,0 +1,14 @@
+[
+  {
+      "sobject": "Contact",
+      "saveRefs": true,
+      "resolveRefs": false,
+      "files": ["contacts.json"]
+  },
+  {
+      "sobject": "GRMS_UserClientRelation__c",
+      "saveRefs": true,
+      "resolveRefs": true,
+      "files": ["relationship.json"]
+  }
+]
