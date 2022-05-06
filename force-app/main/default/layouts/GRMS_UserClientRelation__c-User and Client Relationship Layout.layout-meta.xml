@@ -12,7 +12,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>GRMS_User__c</field>
+                <field>GRMS_FieldWorker__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
