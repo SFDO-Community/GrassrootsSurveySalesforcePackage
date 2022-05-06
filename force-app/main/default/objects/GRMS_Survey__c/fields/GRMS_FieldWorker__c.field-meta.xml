@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>GRMS_UserContact__c</fullName>
+    <fullName>GRMS_FieldWorker__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <externalId>false</externalId>
     <label>Field Worker</label>
     <referenceTo>Contact</referenceTo>
-    <relationshipLabel>Field Surveys</relationshipLabel>
+    <relationshipLabel>Surveys Administered for the Field Workers</relationshipLabel>
     <relationshipName>Surveys</relationshipName>
     <required>false</required>
     <trackTrending>false</trackTrending>

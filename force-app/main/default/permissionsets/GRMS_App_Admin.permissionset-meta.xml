@@ -21,7 +21,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>GRMS_Survey__c.GRMS_UserContact__c</field>
+        <field>GRMS_Survey__c.GRMS_FieldWorker__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
