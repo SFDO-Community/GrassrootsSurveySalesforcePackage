@@ -56,6 +56,6 @@ public with sharing class GRMS_ContactValidationRuleTest {
         message = e.getMessage();
       }
       System.assert(!String.isBlank(message), 'validation rule for survey client filed is not working');
-      System.assert(message.contains('You must specify &quot;Survey Client&quot; type contact for the client field.'), 'message of validation rule for survey client filed is wrong');
+      System.assert(message.contains('You must specify &quot;Survey Client&quot; type contact for the Survey Client field.'), 'message of validation rule for survey client filed is wrong');
     }
 }
