@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>GRMS_Client_Record_Type</fullName>
+    <fullName>GRMS_Survey_Client_Type</fullName>
     <active>true</active>
     <description>Restrict contact type for client field.</description>
     <errorConditionFormula>TEXT(GRMS_Client__r.GRMS_ContactType__c) &lt;&gt; &quot;Survey Client&quot;</errorConditionFormula>
