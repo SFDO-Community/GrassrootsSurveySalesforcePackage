@@ -48,7 +48,7 @@
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>relatedListApiName</name>
-                    <value>UserRelations__r</value>
+                    <value>ClientRelationships__r</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>relatedListComponentOverride</name>
@@ -67,7 +67,7 @@
                     <criteria>
                         <leftValue>{!Record.GRMS_ContactType__c}</leftValue>
                         <operator>EQUAL</operator>
-                        <rightValue>Survey User</rightValue>
+                        <rightValue>Field Worker</rightValue>
                     </criteria>
                 </visibilityRule>
             </componentInstance>
@@ -80,7 +80,7 @@
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>relatedListApiName</name>
-                    <value>ClientRelations__r</value>
+                    <value>FieldWorkerRelationships__r</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>relatedListComponentOverride</name>

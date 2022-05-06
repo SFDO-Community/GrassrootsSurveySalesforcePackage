@@ -16,7 +16,7 @@
     </lookupFilter>
     <referenceTo>Contact</referenceTo>
     <relationshipLabel>Field Worker Relationships</relationshipLabel>
-    <relationshipName>ClientRelations</relationshipName>
+    <relationshipName>FieldWorkerRelationships</relationshipName>
     <required>true</required>
     <trackTrending>false</trackTrending>
     <type>Lookup</type>
