@@ -203,14 +203,14 @@
         <fields>GRMS_FieldWorker__c</fields>
         <fields>GRMS_Type__c</fields>
         <fields>CREATED_DATE</fields>
-        <relatedList>GRMS_UserClientRelation__c.GRMS_Client__c</relatedList>
+        <relatedList>GRMS_FieldWorkerClientRelation__c.GRMS_Client__c</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
         <fields>GRMS_Client__c</fields>
         <fields>GRMS_Type__c</fields>
         <fields>CREATED_DATE</fields>
-        <relatedList>GRMS_UserClientRelation__c.GRMS_FieldWorker__c</relatedList>
+        <relatedList>GRMS_FieldWorkerClientRelation__c.GRMS_FieldWorker__c</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>TASK.SUBJECT</fields>

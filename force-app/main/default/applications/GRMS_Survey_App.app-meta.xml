@@ -31,7 +31,7 @@
     <label>Grassroots Survey</label>
     <navType>Standard</navType>
     <tabs>standard-Contact</tabs>
-    <tabs>GRMS_UserClientRelation__c</tabs>
+    <tabs>GRMS_FieldWorkerClientRelation__c</tabs>
     <tabs>GRMS_Survey__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>GRMS_Survey_App_UtilityBar</utilityBar>

@@ -26,7 +26,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>GRMS_UserClientRelation__c.GRMS_Type__c</field>
+        <field>GRMS_FieldWorkerClientRelation__c.GRMS_Type__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
@@ -55,7 +55,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>GRMS_UserClientRelation__c</object>
+        <object>GRMS_FieldWorkerClientRelation__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <tabSettings>
@@ -63,7 +63,7 @@
         <visibility>Visible</visibility>
     </tabSettings>
     <tabSettings>
-        <tab>GRMS_UserClientRelation__c</tab>
+        <tab>GRMS_FieldWorkerClientRelation__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
 </PermissionSet>
