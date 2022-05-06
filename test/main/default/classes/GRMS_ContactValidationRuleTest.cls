@@ -12,11 +12,11 @@ public with sharing class GRMS_ContactValidationRuleTest {
       GRMS_LoginEmail__c = 'test2@example.com',
       GRMS_ContactType__c = 'Field Worker');
     insert u;
-    insert new GRMS_FieldWorkerClientRelationships__c(
+    insert new GRMS_FieldWorkerClientRelation__c(
       GRMS_Client__c = c.Id,
       GRMS_FieldWorker__c = u.Id
     );  
-    System.assert([SELECT COUNT() FROM GRMS_FieldWorkerClientRelationships__c] > 0, 'relationship record is not created.');
+    System.assert([SELECT COUNT() FROM GRMS_FieldWorkerClientRelation__c] > 0, 'relationship record is not created.');
   }
 
     @isTest
@@ -28,7 +28,7 @@ public with sharing class GRMS_ContactValidationRuleTest {
       insert c;
       String message;
       try {
-        insert new GRMS_FieldWorkerClientRelationships__c(
+        insert new GRMS_FieldWorkerClientRelation__c(
           GRMS_Client__c = c.Id,
           GRMS_FieldWorker__c = c.Id
         );
@@ -48,7 +48,7 @@ public with sharing class GRMS_ContactValidationRuleTest {
       insert c;
       String message;
       try {
-        insert new GRMS_FieldWorkerClientRelationships__c(
+        insert new GRMS_FieldWorkerClientRelation__c(
           GRMS_Client__c = c.Id,
           GRMS_FieldWorker__c = c.Id
         );
