@@ -15,7 +15,7 @@
         <isOptional>false</isOptional>
     </lookupFilter>
     <referenceTo>Contact</referenceTo>
-    <relationshipLabel>Related Survey Users</relationshipLabel>
+    <relationshipLabel>Field Worker Relationships</relationshipLabel>
     <relationshipName>ClientRelations</relationshipName>
     <required>true</required>
     <trackTrending>false</trackTrending>

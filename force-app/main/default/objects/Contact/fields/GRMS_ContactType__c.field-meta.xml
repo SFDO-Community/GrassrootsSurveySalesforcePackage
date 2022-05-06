@@ -11,9 +11,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Survey User</fullName>
+                <fullName>Field Worker</fullName>
                 <default>false</default>
-                <label>Survey User</label>
+                <label>Field Worker</label>
             </value>
             <value>
                 <fullName>Survey Client</fullName>

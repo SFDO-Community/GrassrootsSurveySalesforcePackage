@@ -4,18 +4,18 @@
     <deleteConstraint>Restrict</deleteConstraint>
     <deprecated>false</deprecated>
     <externalId>false</externalId>
-    <label>User</label>
+    <label>Field Worker</label>
     <lookupFilter>
       <active>true</active>
       <filterItems>
           <field>Contact.GRMS_ContactType__c</field>
           <operation>equals</operation>
-          <value>Survey User</value>
+          <value>Field Worker</value>
       </filterItems>
       <isOptional>false</isOptional>
     </lookupFilter>
     <referenceTo>Contact</referenceTo>
-    <relationshipLabel>Related Survey Clients</relationshipLabel>
+    <relationshipLabel>Client Relationships</relationshipLabel>
     <relationshipName>UserRelations</relationshipName>
     <required>true</required>
     <trackTrending>false</trackTrending>

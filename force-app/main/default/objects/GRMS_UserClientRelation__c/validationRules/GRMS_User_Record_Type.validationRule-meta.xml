@@ -2,8 +2,8 @@
 <ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>GRMS_User_Record_Type</fullName>
     <active>true</active>
-    <description>Restrict contact record type for user field.</description>
-    <errorConditionFormula>TEXT(GRMS_User__r.GRMS_ContactType__c) &lt;&gt; &quot;Survey User&quot;</errorConditionFormula>
+    <description>Restrict contact type for field worker field.</description>
+    <errorConditionFormula>TEXT(GRMS_User__r.GRMS_ContactType__c) &lt;&gt; &quot;Field Worker&quot;</errorConditionFormula>
     <errorDisplayField>GRMS_User__c</errorDisplayField>
-    <errorMessage>You must specify &quot;Survey User&quot; type contact for the user field.</errorMessage>
+    <errorMessage>You must specify &quot;Field Worker&quot; type contact for the Field Worker field.</errorMessage>
 </ValidationRule>

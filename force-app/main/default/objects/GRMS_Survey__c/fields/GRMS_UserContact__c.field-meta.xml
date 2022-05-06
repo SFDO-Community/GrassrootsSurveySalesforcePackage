@@ -3,7 +3,7 @@
     <fullName>GRMS_UserContact__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <externalId>false</externalId>
-    <label>User Contact</label>
+    <label>Field Worker</label>
     <referenceTo>Contact</referenceTo>
     <relationshipLabel>Field Surveys</relationshipLabel>
     <relationshipName>Surveys</relationshipName>
