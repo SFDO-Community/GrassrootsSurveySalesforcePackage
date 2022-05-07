@@ -1,3 +1,8 @@
+# 0.12.0 - May 7th, 2021
+* Rename 'User' to 'Field Worker' and update labels
+* Add default contact lightning record page with the conditional related lists
+* Add lookup filters to relationship object
+
 # 0.11.0 - April 6th, 2021
 * Remove record types from contact and use picklist to define survey user/client
 
