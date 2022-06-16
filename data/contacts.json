@@ -11,7 +11,7 @@
           "Email": "amy@example.com",
           "Phone": "4152568563",
           "GRMS_LoginEmail__c": "amy@example.com",
-          "GRMS_ContactType__c": "Survey User"
+          "GRMS_ContactType__c": "Field Worker"
       },
       {
           "attributes": {

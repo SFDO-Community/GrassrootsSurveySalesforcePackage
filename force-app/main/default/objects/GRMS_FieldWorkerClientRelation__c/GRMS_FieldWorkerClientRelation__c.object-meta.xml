@@ -154,13 +154,13 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ReadWrite</externalSharingModel>
-    <label>User and Client Relationship</label>
+    <label>Field Worker and Client Relationship</label>
     <nameField>
-        <displayFormat>UCR-{00000000}</displayFormat>
+        <displayFormat>FWCR-{00000000}</displayFormat>
         <label>Relationship Number</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>User and Client Relationships</pluralLabel>
+    <pluralLabel>Field Worker and Client Relationships</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

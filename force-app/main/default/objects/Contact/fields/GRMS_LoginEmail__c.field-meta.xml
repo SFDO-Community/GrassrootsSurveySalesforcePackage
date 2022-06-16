@@ -2,9 +2,9 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>GRMS_LoginEmail__c</fullName>
     <caseSensitive>true</caseSensitive>
-    <description>Email address of auth0 userfor grassroots mobile survey app.</description>
+    <description>Email address of auth0 user (field worker) for grassroots mobile survey app.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Email address of auth0 user for grassroots mobile survey app.</inlineHelpText>
+    <inlineHelpText>Email address of auth0 user (field worker) for grassroots mobile survey app.</inlineHelpText>
     <label>Login Email</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>

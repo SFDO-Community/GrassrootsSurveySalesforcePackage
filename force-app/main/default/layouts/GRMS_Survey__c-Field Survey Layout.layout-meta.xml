@@ -13,7 +13,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>GRMS_UserContact__c</field>
+                <field>GRMS_FieldWorker__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

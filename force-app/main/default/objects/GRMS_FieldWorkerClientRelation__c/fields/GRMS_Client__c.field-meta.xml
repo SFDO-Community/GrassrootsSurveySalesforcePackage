@@ -5,9 +5,18 @@
     <deprecated>false</deprecated>
     <externalId>false</externalId>
     <label>Client</label>
+    <lookupFilter>
+        <active>true</active>
+        <filterItems>
+            <field>Contact.GRMS_ContactType__c</field>
+            <operation>equals</operation>
+            <value>Survey Client</value>
+        </filterItems>
+        <isOptional>false</isOptional>
+    </lookupFilter>
     <referenceTo>Contact</referenceTo>
-    <relationshipLabel>Related Survey Users</relationshipLabel>
-    <relationshipName>ClientRelations</relationshipName>
+    <relationshipLabel>Field Worker Relationships</relationshipLabel>
+    <relationshipName>FieldWorkerRelationships</relationshipName>
     <required>true</required>
     <trackTrending>false</trackTrending>
     <type>Lookup</type>

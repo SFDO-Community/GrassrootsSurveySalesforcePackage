@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Layout xmlns="http://soap.sforce.com/2006/04/metadata">
-    <excludeButtons>RequestUseSfdc</excludeButtons>
     <excludeButtons>Submit</excludeButtons>
     <layoutSections>
         <customLabel>false</customLabel>
@@ -200,10 +199,23 @@
     </relatedContent>
     <relatedLists>
         <fields>NAME</fields>
-        <fields>GRMS_User__c</fields>
+        <fields>GRMS_SurveyDate__c</fields>
+        <fields>CREATED_DATE</fields>
+        <relatedList>GRMS_Survey__c.GRMS_FieldWorker__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <fields>GRMS_FieldWorker__c</fields>
         <fields>GRMS_Type__c</fields>
         <fields>CREATED_DATE</fields>
-        <relatedList>GRMS_UserClientRelation__c.GRMS_Client__c</relatedList>
+        <relatedList>GRMS_FieldWorkerClientRelation__c.GRMS_Client__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <fields>GRMS_Client__c</fields>
+        <fields>GRMS_Type__c</fields>
+        <fields>CREATED_DATE</fields>
+        <relatedList>GRMS_FieldWorkerClientRelation__c.GRMS_FieldWorker__c</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>TASK.SUBJECT</fields>
@@ -234,7 +246,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00h0x0000034aOx</masterLabel>
+        <masterLabel>00h8D000000LpZW</masterLabel>
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>
