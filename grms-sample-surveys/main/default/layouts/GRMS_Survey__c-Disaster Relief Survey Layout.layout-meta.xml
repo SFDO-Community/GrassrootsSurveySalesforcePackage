@@ -74,7 +74,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Contact_Text__c</field>
+                <field>SMSConsent__c</field>
             </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>
@@ -229,7 +229,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00h54000005PULS</masterLabel>
+        <masterLabel>00h17000009r71D</masterLabel>
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>

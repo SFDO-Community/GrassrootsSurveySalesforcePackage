@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SMSConsent__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Applicant consent status to receive SMS Text Message to the phon number provided</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Applicant consent status to receive SMS Text Message to the phon number provided</inlineHelpText>
+    <label>Accept Consent to Receive SMS Text Mssg</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -15,6 +15,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>GRMS_FieldWorkerClientRelation__c.GRMS_Type__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>GRMS_Survey__c.Access_to_Clean_Water__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -50,11 +55,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>GRMS_Survey__c.Contact_Text__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>GRMS_Survey__c.Contact_WhatsApp__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -65,12 +65,27 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>GRMS_Survey__c.Description__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>GRMS_Survey__c.Duration__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>GRMS_Survey__c.Emergency_Contact_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>GRMS_Survey__c.Emergency_Contact_Phone__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>GRMS_Survey__c.Endangered__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -105,12 +120,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>GRMS_Survey__c.GRMS_SurveyDate__c</field>
+        <field>GRMS_Survey__c.GRMS_FieldWorker__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>GRMS_Survey__c.GRMS_FieldWorker__c</field>
+        <field>GRMS_Survey__c.GRMS_SurveyDate__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -260,7 +275,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>GRMS_FieldWorkerClientRelation__c.GRMS_Type__c</field>
+        <field>GRMS_Survey__c.SMSConsent__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
@@ -280,7 +295,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>GRMS_Survey__c</object>
+        <object>GRMS_FieldWorkerClientRelation__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -289,7 +304,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>GRMS_FieldWorkerClientRelation__c</object>
+        <object>GRMS_Survey__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <recordTypeVisibilities>
@@ -301,11 +316,11 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabSettings>
-        <tab>GRMS_Survey__c</tab>
+        <tab>GRMS_FieldWorkerClientRelation__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
     <tabSettings>
-        <tab>GRMS_FieldWorkerClientRelation__c</tab>
+        <tab>GRMS_Survey__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
     <userPermissions>
