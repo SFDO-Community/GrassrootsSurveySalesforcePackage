@@ -8,6 +8,7 @@
 .cci
 /src.orig
 /src
+config.json
 
 # Editors
 *.sublime-project

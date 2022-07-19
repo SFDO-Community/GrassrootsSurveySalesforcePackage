@@ -13,8 +13,8 @@
         {
             "path": "grms-sample-surveys",
             "package": "grms-sample-surveys",
-            "versionName": "ver 0.2",
-            "versionNumber": "0.2.0.NEXT",
+            "versionName": "ver 0.3",
+            "versionNumber": "0.3.0.NEXT",
             "dependencies": [
                 {
                     "subscriberPackageVersionId": "04t5G000003RTPbQAO"
@@ -32,6 +32,7 @@
         "grass-roots-survey@0.11.0-3": "04t5G000003RTLtQAO",
         "grass-roots-survey@0.12.0-2": "04t5G000003RTPbQAO",
         "grms-sample-surveys": "0Ho5G000000TNBPSA4",
-        "grms-sample-surveys@0.2.0-1": "04t5G000003RTPgQAO"
+        "grms-sample-surveys@0.2.0-1": "04t5G000003RTPgQAO",
+        "grms-sample-surveys@0.3.0-1": "04t5G000003RTU2QAO"
     }
 }
