@@ -43,7 +43,7 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>GRMS_ContactType__c</field>
+                <field>ContactType__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -51,7 +51,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>GRMS_LoginEmail__c</field>
+                <field>LoginEmail__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -199,23 +199,23 @@
     </relatedContent>
     <relatedLists>
         <fields>NAME</fields>
-        <fields>GRMS_SurveyDate__c</fields>
+        <fields>SurveyDate__c</fields>
         <fields>CREATED_DATE</fields>
-        <relatedList>GRMS_Survey__c.GRMS_FieldWorker__c</relatedList>
+        <relatedList>Survey__c.FieldWorker__c</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
-        <fields>GRMS_FieldWorker__c</fields>
-        <fields>GRMS_Type__c</fields>
+        <fields>FieldWorker__c</fields>
+        <fields>Type__c</fields>
         <fields>CREATED_DATE</fields>
-        <relatedList>GRMS_FieldWorkerClientRelation__c.GRMS_Client__c</relatedList>
+        <relatedList>FieldWorkerClientRelation__c.Client__c</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
-        <fields>GRMS_Client__c</fields>
-        <fields>GRMS_Type__c</fields>
+        <fields>Client__c</fields>
+        <fields>Type__c</fields>
         <fields>CREATED_DATE</fields>
-        <relatedList>GRMS_FieldWorkerClientRelation__c.GRMS_FieldWorker__c</relatedList>
+        <relatedList>FieldWorkerClientRelation__c.FieldWorker__c</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>TASK.SUBJECT</fields>

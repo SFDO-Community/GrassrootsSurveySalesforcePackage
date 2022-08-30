@@ -2,27 +2,27 @@
   "records": [
       {
           "attributes": {
-              "type": "GRMS_FieldWorkerClientRelation__c",
+              "type": "FieldWorkerClientRelation__c",
               "referenceId": "RelationRef1"
           },
-          "GRMS_FieldWorker__c": "@ContactRef1",
-          "GRMS_Client__c": "@ContactRef2"
+          "FieldWorker__c": "@ContactRef1",
+          "Client__c": "@ContactRef2"
       },
       {
           "attributes": {
-              "type": "GRMS_FieldWorkerClientRelation__c",
+              "type": "FieldWorkerClientRelation__c",
               "referenceId": "RelationRef2"
           },
-          "GRMS_FieldWorker__c": "@ContactRef1",
-          "GRMS_Client__c": "@ContactRef3"
+          "FieldWorker__c": "@ContactRef1",
+          "Client__c": "@ContactRef3"
       },
       {
           "attributes": {
-              "type": "GRMS_FieldWorkerClientRelation__c",
+              "type": "FieldWorkerClientRelation__c",
               "referenceId": "RelationRef3"
           },
-          "GRMS_FieldWorker__c": "@ContactRef1",
-          "GRMS_Client__c": "@ContactRef4"
+          "FieldWorker__c": "@ContactRef1",
+          "Client__c": "@ContactRef4"
       }
   ]
 }
