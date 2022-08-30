@@ -7,4 +7,4 @@ jobs:
   upload-beta:
     uses: SFDO-Community/standard-workflows/.github/workflows/beta-2gp.yml@main
     secrets:
-      dev-hub-auth-url: '${{ secrets.DEV_HUB_AUTH_URL }}'
+      dev-hub-auth-url: '${{ secrets.PACKAGING_ORG_AUTH_URL }}'
