@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Survey_Client_Type</fullName>
+    <active>true</active>
+    <description>Restrict contact type for client field.</description>
+    <errorConditionFormula>TEXT(Client__r.ContactType__c) &lt;&gt; &quot;Survey Client&quot;</errorConditionFormula>
+    <errorDisplayField>Client__c</errorDisplayField>
+    <errorMessage>You must specify &quot;Survey Client&quot; type contact for the Survey Client field.</errorMessage>
+</ValidationRule>

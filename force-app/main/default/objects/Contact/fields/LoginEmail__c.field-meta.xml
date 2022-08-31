@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LoginEmail__c</fullName>
+    <caseSensitive>true</caseSensitive>
+    <description>Email address of auth0 user (field worker) for grassroots mobile survey app.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Email address of auth0 user (field worker) for grassroots mobile survey app.</inlineHelpText>
+    <label>Login Email</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Email</type>
+    <unique>true</unique>
+</CustomField>
