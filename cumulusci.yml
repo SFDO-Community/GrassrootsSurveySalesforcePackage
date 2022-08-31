@@ -23,4 +23,12 @@ tasks:
 
     run_tests:
         options:
-            required_org_code_coverage_percent: 75
+            required_org_code_coverage_percent: 0
+
+flows:
+    config_apextest:
+        steps:
+            2:
+                task: deploy
+                options:
+                    path: test
