@@ -2,7 +2,8 @@ minimum_cumulusci_version: '3.25.0'
 project:
     name: grass-roots-mobile-salesforce-package
     package:
-        name: grass-roots-survey
+        name: Grassroots Mobile Survey
+        namespace: GRMS
         api_version: '50.0'
     git:
     test:
