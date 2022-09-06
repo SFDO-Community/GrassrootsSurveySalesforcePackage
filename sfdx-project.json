@@ -2,37 +2,16 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true,
-            "package": "grass-roots-survey",
-            "versionName": "ver 0.12",
-            "versionNumber": "0.12.0.NEXT"
+            "default": true
         },
         {
             "path": "test"
         },
         {
-            "path": "grms-sample-surveys",
-            "package": "grms-sample-surveys",
-            "versionName": "ver 0.3",
-            "versionNumber": "0.3.0.NEXT",
-            "dependencies": [
-                {
-                    "subscriberPackageVersionId": "04t5G000003RTPbQAO"
-                }
-            ]
+            "path": "grms-sample-surveys"
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "54.0",
-    "packageAliases": {
-        "grass-roots-survey": "0Ho5G000000PB4iSAG",
-        "grass-roots-survey@0.9.1-1": "04t5G000003zeZXQAY",
-        "grass-roots-survey@0.10.0-2": "04t5G000003zeaGQAQ",
-        "grass-roots-survey@0.11.0-3": "04t5G000003RTLtQAO",
-        "grass-roots-survey@0.12.0-2": "04t5G000003RTPbQAO",
-        "grms-sample-surveys": "0Ho5G000000TNBPSA4",
-        "grms-sample-surveys@0.2.0-1": "04t5G000003RTPgQAO",
-        "grms-sample-surveys@0.3.0-1": "04t5G000003RTU2QAO"
-    }
+    "sourceApiVersion": "54.0"
 }

@@ -54,3 +54,6 @@ __pycache__
 
 # Robot Framework results
 robot/grass-roots-mobile-salesforce-package/results/
+
+# Apex tests
+test_results.*
