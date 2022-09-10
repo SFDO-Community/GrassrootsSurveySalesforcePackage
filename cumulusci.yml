@@ -26,6 +26,12 @@ tasks:
         options:
             required_org_code_coverage_percent: 0
 
+    deploy_sample_surveys:
+        description: Deploys samples survey fields
+        classpath: cumulusci.tasks.salesforce.Deploy
+        options:
+            path: unpackaged/config/sample-surveys
+
 flows:
     config_apextest:
         steps:
