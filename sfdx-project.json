@@ -6,9 +6,6 @@
         },
         {
             "path": "test"
-        },
-        {
-            "path": "grms-sample-surveys"
         }
     ],
     "namespace": "",

@@ -20,262 +20,262 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Access_to_Clean_Water__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Access_to_Clean_Water__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Any_HH_Member_Missing__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Any_HH_Member_Missing__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Appetite__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Appetite__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Contact_Email__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Contact_Email__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Contact_Method_Crisis__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Contact_Method_Crisis__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Contact_Method_Normal__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Contact_Method_Normal__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Contact_Phone__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Contact_Phone__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Contact_WhatsApp__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Contact_WhatsApp__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Contacted_by_Another_Org__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Contacted_by_Another_Org__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Description__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Description__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Duration__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Duration__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Emergency_Contact_Name__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Emergency_Contact_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Emergency_Contact_Phone__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Emergency_Contact_Phone__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Endangered__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Endangered__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Financial_Support_Needed__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Financial_Support_Needed__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Financial_Support_Needs__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Financial_Support_Needs__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Food_Delivery_Assistance_Needed__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Food_Delivery_Assistance_Needed__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Food_Needed_in_Next_Delivery__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Food_Needed_in_Next_Delivery__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Food_Now__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Food_Now__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Form_of_Insurance__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Form_of_Insurance__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.FieldWorker__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%FieldWorker__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.SurveyDate__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%SurveyDate__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.HH_Member_Birthdate__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%HH_Member_Birthdate__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Health_Comments__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Health_Comments__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Homeowners_Insurer__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Homeowners_Insurer__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Housing_Now__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Housing_Now__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Insurer_Health__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Insurer_Health__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Lives_With__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Lives_With__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Materials_Needed_to_Make_Repairs__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Materials_Needed_to_Make_Repairs__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Medical_Needs_Now__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Medical_Needs_Now__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Medication_Needs_Now__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Medication_Needs_Now__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Mental_Emotional_Health__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Mental_Emotional_Health__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Mental_Health_Needs_Now__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Mental_Health_Needs_Now__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Name_of_HH_Member__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Name_of_HH_Member__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Name_of_Org_You_re_Connected_With__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Name_of_Org_You_re_Connected_With__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Name_ph_email_of_person_to_contact__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Name_ph_email_of_person_to_contact__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Names_of_any_missing_persons__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Names_of_any_missing_persons__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Need_to_contact_anyone_outside_the_HH__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Need_to_contact_anyone_outside_the_HH__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Needs_of_Pets_in_HH__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Needs_of_Pets_in_HH__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Num_of_Adults_in_the_Home__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Num_of_Adults_in_the_Home__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Num_of_Children_in_the_Home__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Num_of_Children_in_the_Home__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Num_of_HH_Members_in_the_Home__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Num_of_HH_Members_in_the_Home__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Nutrition_Advice_Needed__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Nutrition_Advice_Needed__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Nutrition_Support_Needs__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Nutrition_Support_Needs__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Other_Comments__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Other_Comments__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Overall_Health__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Overall_Health__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Priority_of_Needs__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Priority_of_Needs__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Resides__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Resides__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Respondent_First_Name__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Respondent_First_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Respondent_Last_Name__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Respondent_Last_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.Role_in_Family__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Role_in_Family__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Survey__c.SMSConsent__c</field>
+        <field>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%SMSConsent__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
@@ -308,11 +308,11 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <recordTypeVisibilities>
-        <recordType>Survey__c.Disaster_Relief</recordType>
+        <recordType><members>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Disaster_Relief</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
-        <recordType>Survey__c.Homecare</recordType>
+        <recordType><members>%%%NAMESPACE%%%Survey__c.%%%NAMESPACE%%%Homecare</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabSettings>
