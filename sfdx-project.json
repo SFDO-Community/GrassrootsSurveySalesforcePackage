@@ -8,10 +8,23 @@
             "path": "test"
         },
         {
-            "path": "grms-sample-surveys"
+            "path": "grms-sample-surveys",
+            "package": "grms-sample-surveys",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false,
+            "dependencies": [
+                {
+                    "package": "04t6g000008fj0mAAA"
+                }
+            ]
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "54.0"
+    "sourceApiVersion": "54.0",
+    "packageAliases": {
+        "grms-sample-surveys": "0Ho0I000000PAw5SAG",
+        "grms-sample-surveys@0.1.0-1": "04t0I000001E4J1QAK"
+    }
 }
