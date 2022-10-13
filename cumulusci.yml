@@ -34,12 +34,12 @@ flows:
                 task: deploy
                 options:
                     path: test
-  customer_org:
-    steps:
-      1:
-        task: install_managed
-        options:
-          security_type: NONE
+    customer_org:
+        steps:
+            1:
+                task: install_managed
+                options:
+                    security_type: NONE
 
 plans:
     install:
