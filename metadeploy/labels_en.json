@@ -1,0 +1,48 @@
+{
+    "product": {
+        "title": {
+            "message": "Grassroots Mobile Survey (GRMS)",
+            "description": "name of product"
+        },
+        "short_description": {
+            "message": "Offline or online, free and open source field survey tool for Nonprofits with field workers.",
+            "description": "tagline of product"
+        },
+        "description": {
+            "message": "Grassroots Mobile Survey was built for nonprofits with staff or volunteers in the field. It\u2019s customizable to suit any nonprofit\u2019s needs and is free and open source, supported by a team of dedicated volunteers.\r\n\r\nFeatures:\r\n\r\n* Free and open source for nonprofits with small budgets.\r\n* Offline or online! Downloaded surveys can be filled out whether there\u2019s phone or internet service, providing remote villagers or disaster victims support. Once wifi or phone service is restored, one-step sync and your data flows to your database.\r\n* Customizable! Organizations build their own surveys to captures the data needed.\r\n* Sync from mobile iOS or Android app using only one Salesforce API user.\r\n\r\n\r\nResources:\r\n\r\n* Learn More (https://github.com/SFDO-Community-Sprints/GrassrootsMobileSurveyApp/wiki)\r\n* Get support (https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE?tab=members&sort=LAST_MODIFIED_DATE_DESC) - Maintainers of this application and Salesforce.org (http://salesforce.org/) Open Source Program team members actively monitor every post.\r\n* GitHub Repository (https://github.com/SFDO-Community/GrassrootsMobileSurveyApp/wiki)",
+            "description": "shown on product detail page (markdown)"
+        },
+        "click_through_agreement": {
+            "message": "THIS APPLICATION IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR SIMILAR DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS APPLICATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\r\n\r\nSUBJECT TO THE FOREGOING, THIS APPLICATION MAY BE FREELY REPRODUCED, DISTRIBUTED, TRANSMITTED, USED, MODIFIED, BUILT UPON, OR OTHERWISE EXPLOITED BY OR ON BEHALF OF SALESFORCE.COM OR ITS AFFILIATES, ANY CUSTOMER OR PARTNER OF SALESFORCE.COM OR ITS AFFILIATES, OR ANY DEVELOPER OF APPLICATIONS THAT INTERFACE WITH THE SALESFORCE.COM APPLICATION, FOR ANY PURPOSE, COMMERCIAL OR NON-COMMERCIAL, RELATED TO USE OF THE SALESFORCE.COM APPLICATION, AND IN ANY WAY, INCLUDING BY METHODS THAT HAVE NOT YET BEEN INVENTED OR CONCEIVED.",
+            "description": "legal text shown in modal dialog"
+        },
+        "error_message": {
+            "message": "To get help with this error, visit the [GRMS Trailblazer Community group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC).",
+            "description": "shown after failed installation (markdown)"
+        }
+    },
+    "plan:install": {
+        "title": {
+            "message": "Install Grassroots Mobile Survey (GRMS)",
+            "description": "title of installation plan"
+        },
+        "preflight_message": {
+            "message": "This will install Grassroots Mobile Survey (GRMS) in your org.",
+            "description": "shown before user starts installation (markdown)"
+        },
+        "post_install_message": {
+            "message": "Thanks for installing Grassroots Mobile Survey (GRMS). Please visit the [GRMS Trailblazer Community group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC) for any questions about GRMS.",
+            "description": "shown after successful installation (markdown)"
+        },
+        "error_message": {
+            "message": "To get help with this error, visit the [GRMS Trailblazer Community group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC).",
+            "description": "shown after failed installation (markdown)"
+        }
+    },
+    "steps": {
+        "Install {product} {version}": {
+            "message": "Install {product} {version}",
+            "description": "title of installation step"
+        }
+    }
+}
