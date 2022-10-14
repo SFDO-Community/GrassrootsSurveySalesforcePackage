@@ -6,6 +6,7 @@ project:
         namespace: GRMS
         api_version: '50.0'
     git:
+        repo_url: https://github.com/SFDO-Community/GrassrootsSurveySalesforcePackage
     test:
         name_match: '%Test'
     source_format: sfdx
@@ -33,3 +34,22 @@ flows:
                 task: deploy
                 options:
                     path: test
+    customer_org:
+        steps:
+            1:
+                task: install_managed
+                options:
+                    security_type: NONE
+
+plans:
+    install:
+        slug: install
+        title: Install Grassroots Mobile Survey (GRMS)
+        tier: primary
+        is_listed: True
+        preflight_message: "This will install Grassroots Mobile Survey (GRMS) in your org."
+        post_install_message: "Thanks for installing Grassroots Mobile Survey (GRMS). Please visit the [GRMS Trailblazer Community group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC) for any questions about GRMS."
+        error_message: "To get help with this error, visit the [GRMS Trailblazer Community group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC)."
+        steps:
+            1:
+                flow: customer_org
