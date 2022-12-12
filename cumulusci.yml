@@ -26,6 +26,13 @@ tasks:
         options:
             required_org_code_coverage_percent: 0
 
+    deploy_post:
+        ui_options:
+            sample_surveys:
+                name: GRMS - Sample Surveys
+                is_required: False
+                is_recommended: False
+
 flows:
     config_apextest:
         steps:
