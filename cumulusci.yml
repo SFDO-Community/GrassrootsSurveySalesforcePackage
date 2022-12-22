@@ -47,6 +47,10 @@ flows:
                 task: install_managed
                 options:
                     security_type: NONE
+            2:
+                task: deploy_sample_surveys
+                ui_options:
+                    is_required: False
 
 plans:
     install:
@@ -60,13 +64,3 @@ plans:
         steps:
             1:
                 flow: customer_org
-    sample-surveys:
-        slug: sample-surveys
-        title: Install Sample Surveys
-        is_listed: True
-        preflight_message: "This will install sample surveys for Grassroots Mobile Survey (GRMS) in your org."
-        steps:
-            1:
-                task: deploy_sample_surveys
-                ui_options:
-                    name: "Install Sample Surveys"
