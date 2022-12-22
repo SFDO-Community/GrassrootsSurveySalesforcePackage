@@ -27,12 +27,12 @@ tasks:
         options:
             required_org_code_coverage_percent: 0
 
-    deploy_post:
-        ui_options:
-            sample_surveys:
-                name: GRMS - Sample Surveys
-                is_required: False
-                is_recommended: False
+    deploy_sample_surveys:
+        description: GRMS - Sample Surveys
+        group: Salesforce Metadata
+        class_path: cumulusci.tasks.salesforce.Deploy
+        options:
+            path: unpackaged/config/sample_surveys
 
 flows:
     config_apextest:
@@ -60,3 +60,13 @@ plans:
         steps:
             1:
                 flow: customer_org
+    sample-surveys:
+        slug: sample-surveys
+        title: Install Sample Surveys
+        is_listed: True
+        preflight_message: "This will install sample surveys for Grassroots Mobile Survey (GRMS) in your org."
+        steps:
+            1:
+                task: deploy_sample_surveys
+                ui_options:
+                    name: "Install Sample Surveys"
