@@ -8,7 +8,7 @@
             "path": "test"
         },
         {
-            "path": "unpackaged/post/sample_surveys"
+            "path": "unpackaged/config/sample_surveys"
         }
     ],
     "namespace": "",
