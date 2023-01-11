@@ -27,12 +27,12 @@ tasks:
         options:
             required_org_code_coverage_percent: 0
 
-    deploy_post:
-        ui_options:
-            sample_surveys:
-                name: GRMS - Sample Surveys
-                is_required: False
-                is_recommended: False
+    deploy_sample_surveys:
+        description: GRMS - Sample Surveys
+        group: Salesforce Metadata
+        class_path: cumulusci.tasks.salesforce.Deploy
+        options:
+            path: unpackaged/config/sample_surveys
 
 flows:
     config_apextest:
@@ -47,6 +47,10 @@ flows:
                 task: install_managed
                 options:
                     security_type: NONE
+            2:
+                task: deploy_sample_surveys
+                ui_options:
+                    is_required: False
 
 plans:
     install:
