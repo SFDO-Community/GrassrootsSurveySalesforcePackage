@@ -8,7 +8,7 @@
             "path": "test"
         },
         {
-            "path": "grms-sample-surveys"
+            "path": "unpackaged/config/sample_surveys"
         }
     ],
     "namespace": "",
