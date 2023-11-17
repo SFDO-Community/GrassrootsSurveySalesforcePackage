@@ -6,7 +6,7 @@
       "files": ["contacts.json"]
   },
   {
-      "sobject": "FieldWorkerClientRelation__c",
+      "sobject": "GRMS__FieldWorkerClientRelation__c",
       "saveRefs": true,
       "resolveRefs": true,
       "files": ["relationship.json"]
