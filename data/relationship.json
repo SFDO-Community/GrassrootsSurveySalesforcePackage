@@ -2,7 +2,7 @@
   "records": [
       {
           "attributes": {
-              "type": "FieldWorkerClientRelation__c",
+              "type": "GRMS__FieldWorkerClientRelation__c",
               "referenceId": "RelationRef1"
           },
           "FieldWorker__c": "@ContactRef1",
@@ -10,7 +10,7 @@
       },
       {
           "attributes": {
-              "type": "FieldWorkerClientRelation__c",
+              "type": "GRMS__FieldWorkerClientRelation__c",
               "referenceId": "RelationRef2"
           },
           "FieldWorker__c": "@ContactRef1",
@@ -18,7 +18,7 @@
       },
       {
           "attributes": {
-              "type": "FieldWorkerClientRelation__c",
+              "type": "GRMS__FieldWorkerClientRelation__c",
               "referenceId": "RelationRef3"
           },
           "FieldWorker__c": "@ContactRef1",
