@@ -10,8 +10,8 @@
           "Title": "Field Worker",
           "Email": "amy@example.com",
           "Phone": "4152568563",
-          "LoginEmail__c": "amy@example.com",
-          "ContactType__c": "Field Worker"
+          "GRMS__LoginEmail__c": "amy@example.com",
+          "GRMS__ContactType__c": "Field Worker"
       },
       {
           "attributes": {
@@ -23,8 +23,8 @@
           "Title": "Client 1",
           "Email": "michael@example.com",
           "Phone": "4158526633",
-          "LoginEmail__c": "michael@example.com",
-          "ContactType__c": "Survey Client"
+          "GRMS__LoginEmail__c": "michael@example.com",
+          "GRMS__ContactType__c": "Survey Client"
       },
       {
           "attributes": {
@@ -36,8 +36,8 @@
           "Title": "Client 2",
           "Email": "jennifer@example.com",
           "Phone": "4158521463",
-          "LoginEmail__c": "jennifer@example.com",
-          "ContactType__c": "Survey Client"
+          "GRMS__LoginEmail__c": "jennifer@example.com",
+          "GRMS__ContactType__c": "Survey Client"
       },
       {
           "attributes": {
@@ -49,8 +49,8 @@
           "Title": "Client 3",
           "Email": "anup@example.com",
           "Phone": "4158526398",
-          "LoginEmail__c": "anup@example.com",
-          "ContactType__c": "Survey Client"
+          "GRMS__LoginEmail__c": "anup@example.com",
+          "GRMS__ContactType__c": "Survey Client"
         }
   ]
 }
