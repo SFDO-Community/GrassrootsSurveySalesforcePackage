@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>List of languages available for selection on the setting page in the mobile application</description>
+    <label>Available Language</label>
+    <pluralLabel>Available Languages</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
