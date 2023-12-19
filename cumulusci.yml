@@ -33,6 +33,12 @@ tasks:
         class_path: cumulusci.tasks.salesforce.Deploy
         options:
             path: unpackaged/config/sample_surveys
+    deploy_base_flows:
+        description: GRMS - Base Flows
+        group: Salesforce Metadata
+        class_path: cumulusci.tasks.salesforce.Deploy
+        options:
+            path: unpackaged-base-flows/config/base-samples
 
 flows:
     config_apextest:
@@ -49,6 +55,10 @@ flows:
                     security_type: NONE
             2:
                 task: deploy_sample_surveys
+                ui_options:
+                    is_required: False
+            3:
+                task: deploy_base_flows
                 ui_options:
                     is_required: False
 
