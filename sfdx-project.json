@@ -9,6 +9,9 @@
         },
         {
             "path": "unpackaged/config/sample_surveys"
+        },
+        {
+            "path": "unpackaged-base-flows/config/base-samples"
         }
     ],
     "namespace": "",
