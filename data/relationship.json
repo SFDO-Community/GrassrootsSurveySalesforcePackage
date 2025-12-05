@@ -5,24 +5,24 @@
               "type": "GRMS__FieldWorkerClientRelation__c",
               "referenceId": "RelationRef1"
           },
-          "FieldWorker__c": "@ContactRef1",
-          "Client__c": "@ContactRef2"
+          "GRMS__FieldWorker__c": "@ContactRef1",
+          "GRMS__Client__c": "@ContactRef2"
       },
       {
           "attributes": {
               "type": "GRMS__FieldWorkerClientRelation__c",
               "referenceId": "RelationRef2"
           },
-          "FieldWorker__c": "@ContactRef1",
-          "Client__c": "@ContactRef3"
+          "GRMS__FieldWorker__c": "@ContactRef1",
+          "GRMS__Client__c": "@ContactRef3"
       },
       {
           "attributes": {
               "type": "GRMS__FieldWorkerClientRelation__c",
               "referenceId": "RelationRef3"
           },
-          "FieldWorker__c": "@ContactRef1",
-          "Client__c": "@ContactRef4"
+          "GRMS__FieldWorker__c": "@ContactRef1",
+          "GRMS__Client__c": "@ContactRef4"
       }
   ]
 }
